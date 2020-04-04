@@ -1,2 +1,0 @@
-# studentbio
-# UOFASchooling
